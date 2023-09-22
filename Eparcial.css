@@ -1,0 +1,156 @@
+.Logo{
+
+height: 50px;
+width: 50px;
+margin-right: 10px;
+margin-left: 40px;
+
+
+}
+
+.Contenedor{
+
+    display: flex;
+}
+a{
+    margin-left: 40px;
+    margin-right: 10px;
+}
+.nav1 {
+  
+    display: flex;
+
+    background-color: black;
+    width: 100%;
+}
+
+.parcialL{
+
+    color: white;
+}
+.ContenedorNAV{
+
+    background-color: black;
+}
+.colorA a{
+    color: white;
+
+}
+.colorA{
+    
+}
+
+.BarcoB{
+
+    width: 650px;
+    height: 400px;
+}
+.ContenedorMedio{
+    margin-top: 20px;
+    
+}
+
+.titulosMedio{
+    margin-left: 300px;
+    margin-right: 300px;
+   
+    width: 80%;
+    display: flex;
+    background-color: black;
+}
+
+.titulosMedio h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;;
+
+    color: white;
+}
+.div1{
+    width: 40%;
+}
+.div2{
+    background-color: red;
+    width: 20%;
+}
+.div3{
+    width: 23%;
+    background-color: blue;
+}
+.BarcoB2{
+
+    width: 350px;
+    height: 210px;
+}
+.BarcoB3{
+    width: 350px;
+    height: 210px;
+}
+.img2{
+    width: 350px;
+    height: 210px;
+
+}
+
+.im3{
+    width: 350px;
+    height: 210px;
+
+}
+.contenedorfoot{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+
+    padding-bottom: 50px;
+
+   
+}
+.divb1{
+    width: 30%;
+    margin-right: 30px;
+    margin-left: 100px;
+    padding-top: 0px;
+}
+
+.rosa{
+    background-color:mediumpurple;
+}
+.world1{
+
+    width: 564px ;
+    height: 300px;
+ 
+   
+}
+.divb1 h3 , p{
+    color: white;
+    margin-bottom: 0px;
+
+
+}
+.Timg img{
+width: 50px;
+height: 50px;
+}
+
+.divb2 h3{
+    margin-right: 30px;
+    width: 20%;
+    color: white;
+    padding-top: 0px;
+    margin-bottom: 0;
+}
+.divb3{
+    margin-right: 30px;
+    width: 30%;
+}
+
+.foot p{
+    margin-top: 20px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
